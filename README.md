@@ -1,4 +1,4 @@
-# README_R15.txt
+# README_R15
 
 The goal of the present simulation is to
 illustrate how SNNAP can be used to simulation
